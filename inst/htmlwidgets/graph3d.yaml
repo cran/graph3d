@@ -1,0 +1,7 @@
+dependencies:
+  - name: vis-graph3d
+    version: 5.4.3
+    src: htmlwidgets/lib
+    script:
+      - vis-graph3d.min.js
+
