@@ -1,12 +1,12 @@
-3d2ba8ea593441e2a95a5d3b346843d4 *DESCRIPTION
-b7c3de62fafaed9beb88e539a876d3f1 *LICENSE
+aae627f19d0b1bfbe8f173d4234b5723 *DESCRIPTION
+b7c3de62fafaed9beb88e539a876d3f1 *LICENSE.note
 9c7117b015bc84dcd4a7ce765cc77509 *NAMESPACE
-8aac01b69f9ab5f6bc812634fa7dd7c1 *NEWS.md
-80efda94ff655253385786225c8302c7 *R/graph3d.R
+dad02828d04dd630d46c5edd9d36a496 *NEWS.md
+ab1288921ab4f462e6a7d3e5fc843b77 *R/graph3d.R
 dee2a7125637ab2556e8adafecc4e58c *README.md
 1d9f6443127d1956dbededf759b7905d *inst/htmlwidgets/graph3d.js
 fe04755db0ddc96a500a394f22be49aa *inst/htmlwidgets/graph3d.yaml
 56b64ae62319b6a82d5a2f9c7b87741d *inst/htmlwidgets/lib/vis-graph3d.min.js
 298a9513382703bb76d79d825a78165d *man/graph3d-imports.Rd
 ccc61dd6de342b998ecd94aeacf9f40b *man/graph3d-shiny.Rd
-39b2a96c1e71a8b46ae3c3438876e7eb *man/graph3d.Rd
+5bfb5050c78d94f24a4a82b5d181fc9f *man/graph3d.Rd
